@@ -37,7 +37,7 @@ post_class: post-template
                         구분/장르: {{ page.bookcategory }}</br>
                         주제: {% assign first = true %}{% for tag in page.tags %}{% if tag!="book" %}{% unless first %},{% endunless %} {{ tag }}{% assign first = false %}{% endif %}{% endfor %}</br>
                         <p>완독일: {{ page.date | date: "%B %-d, %Y" }}</p>
-                        <p><a href="{{ page.book-link }}" target="_blank">구매링크</a></p>
+                        <p><a href="{{ page.book-link }}" target="_blank" >책정보</a></p>
                     </div>
                 </div>
                 <div class="book_feedback">

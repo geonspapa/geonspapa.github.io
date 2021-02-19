@@ -5,13 +5,13 @@ date:   2020-11-27 23:23:35 +0900
 category: bookreview
 tags:
 - book
-- 자기개발
+- 자기계발
 classes: wide
 published: true
 booktitle : 9등급 꼴찌, 1년 만에 통역사 된 비법(특별증보판)  
 author: 장동완
 bookcover: l9788901219080.jpg
-bookcategory: 자기개발_성공처세
+bookcategory: 자기계발_성공처세
 stars: 4
 book-link: http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788901219080
 ---
