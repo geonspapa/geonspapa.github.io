@@ -12,7 +12,7 @@ published: true
 booktitle : 몰입 
 author: 황농문
 bookcover: l9788925514826.jpg
-bookcategory: 자기개발/성공_처세
+bookcategory: 자기계발/성공_처세
 stars: 4
 book-link: http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788925514826
 ---

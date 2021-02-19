@@ -7,12 +7,13 @@ tags:
 - book
 - 책읽기
 - 일독일행 독서법
+- 자기계발
 classes: wide
 published: true
 booktitle : 일독일행 독서법 
 author: 유근용
 bookcover: l9788994197890.jpg
-bookcategory: 자기개발/성공_처세
+bookcategory: 자기계발/성공_처세
 stars: 4
 book-link: http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788994197890
 ---
