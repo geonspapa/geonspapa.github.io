@@ -9,6 +9,7 @@ tags:
 - keyboard
 - autohotkey
 - karabiner
+- mac
 classes: wide
 published: true
 ---
@@ -31,6 +32,11 @@ SW4: Windows 비활성화
 맥에 맞추기 위해 찾아본 글에는 SW2로 설정하라고 하여 해당 내용을 참조해서 변경을 하고 karabiner를 이용해서 추가 설정을 하니 쾌적해졌습니다.
 
 ![](/images/mac_karabiner.png)
+
+```
+right_control → right_option
+right_option → right_command
+```
 
 
 이 상태에서 원격으로 접속하는 윈도우의 한영키가 이번에는 정상적이지 않게 되어 다시 설정을 찾아보니 한영키를 왼쪽shift + space로 변경해서 사용하는 내용이 있었습니다.
